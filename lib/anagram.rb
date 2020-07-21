@@ -11,4 +11,3 @@ class Anagram
   end
   
 end
-end
