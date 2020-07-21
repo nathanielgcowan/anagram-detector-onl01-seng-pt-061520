@@ -6,6 +6,9 @@ class Anagram
     @word = word
   end
   
-  def parse
+  def array_of_words
+    @array_of_words = array_of_words
+  end
+  
 end
 end
